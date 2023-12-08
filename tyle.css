@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    }
+
+.maca{
+ width: 150px;height: 150px; 
+ margin-top:80px;
+ display: inline-block;
+ margin-left: 170px;
+ 
+}
+
+
+
+.principalh1{ 
+font-size: 160px;
+font-family:poppins;
+margin-left:0px;
+margin-top:80px;
+margin-right: 0px;
+color: white;
+}
+
+.cabecalho{display: inline-block;}
+
+.blacks{ background-color: black; height: 380px;}
+
+
+.corpocinza{background-color: gray;}
+
+img{height: 440px; margin-left:960px; width: 320px; margin-top: 30px;}
+
+
+
