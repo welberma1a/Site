@@ -25,7 +25,12 @@ color: white;
 
 .cabecalho{display: inline-block;}
 
-.blacks{ background-color: black;}
+.blacks{ background-color: black; height: 380px;}
 
 
 .corpocinza{background-color: gray;}
+
+img{height: 440px; margin-left:960px; width: 320px; margin-top: 30px;}
+
+
+
