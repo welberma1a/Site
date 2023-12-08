@@ -1,4 +1,4 @@
-# SitePrime
+# Site
 <br>
 <h1 align="center">PrimeCell</h1>
 <br>
